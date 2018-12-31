@@ -1,4 +1,4 @@
-// r入口文件
+// js入口文件
 import React from 'react'
 import ReactDom from 'react-dom';
 
